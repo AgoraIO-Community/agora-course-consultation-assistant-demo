@@ -1,4 +1,4 @@
-# Agora Parent Trial Follow-up Demo
+# Agora Course Consultation Assistant Demo
 
 A voice AI course consultation demo built with Agora and Next.js. Discuss a fictional youth basketball trial, ask about a child's needs, and walk through a simulated enrollment.
 
@@ -70,7 +70,7 @@ pnpm run doctor
 pnpm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000), choose **Start parent follow-up**, and allow microphone access. Ask the assistant to summarize the conversation if needed, then click the hang-up button (**End session**).
+Open [http://localhost:3000](http://localhost:3000), choose **Start course consultation**, and allow microphone access. Ask the assistant to summarize the conversation if needed, then click the hang-up button (**End session**).
 
 <a id="deployment"></a>
 
@@ -84,7 +84,7 @@ Open [http://localhost:3000](http://localhost:3000), choose **Start parent follo
 
 ## How It Works
 
-1. **Start a conversation:** Choose **Start parent follow-up** and allow microphone access.
+1. **Start a conversation:** Choose **Start course consultation** and allow microphone access.
 2. **Describe your needs:** Share your child’s age, experience, and goals.
 3. **Explore the trial:** Ask about the lesson, venue, fee, and upcoming demo sessions.
 4. **Review enrollment:** Choose a session and confirm or revise a simulated enrollment.

@@ -1,4 +1,4 @@
-# Parent Trial Follow-up Architecture
+# Course Consultation Assistant Architecture
 
 ## Components
 

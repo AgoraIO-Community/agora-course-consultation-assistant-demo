@@ -1,6 +1,6 @@
 # Agent Development Guide
 
-This guide is for coding agents making changes in `agora-parent-trial-follow-up-demo`.
+This guide is for coding agents making changes in `agora-course-consultation-assistant-demo`.
 
 ## Shared scenario UI requirements
 

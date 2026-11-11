@@ -1,4 +1,4 @@
-# Agora Parent Trial Follow-up Demo
+# Agora Course Consultation Assistant Demo
 
 ## 1. Overview
 
@@ -6,7 +6,7 @@ Explore a fictional Austin basketball trial: USD 25, a specific venue and upcomi
 
 ## 2. Try the Demo
 
-Run the app using [local setup](README.md#run-it). Choose `Start parent follow-up`, allow microphone access and try:
+Run the app using [local setup](README.md#run-it). Choose `Start course consultation`, allow microphone access and try:
 
 - My child is nine and has never played basketball.
 - We are only exploring options and are not ready to enroll.

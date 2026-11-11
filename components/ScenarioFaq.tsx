@@ -11,7 +11,7 @@ import {
 const questions = [
   {
     "question": "How do I start a conversation?",
-    "answer": "Choose Start parent follow-up and allow microphone access when your browser asks. Speak in English and describe what you need. You can mute the microphone or end the conversation with the voice controls."
+    "answer": "Choose Start course consultation and allow microphone access when your browser asks. Speak in English and describe what you need. You can mute the microphone or end the conversation with the voice controls."
   },
   {
     "question": "What should I say?",
@@ -35,7 +35,7 @@ const questions = [
   },
   {
     "question": "What if my microphone does not work?",
-    "answer": "Check that microphone access is allowed for this page and that the correct input device is selected in your browser or system settings. Make sure the microphone is not muted, then try Start parent follow-up again."
+    "answer": "Check that microphone access is allowed for this page and that the correct input device is selected in your browser or system settings. Make sure the microphone is not muted, then try Start course consultation again."
   }
 ];
 
