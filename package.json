@@ -1,6 +1,6 @@
 {
   "name": "agora-course-consultation-assistant-demo",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Follow up on a basketball inquiry and capture the parent's next step.",
   "private": true,
   "engines": {
